@@ -18,7 +18,7 @@ Tectonic Plates Layers
 
 Major Earthquakes Layers
 
-<img width="955" alt="Major_Earthquakes" src="https://user-images.githubusercontent.com/86980240/142134395-141dbd31-2dbb-48c5-895b-397bc5b12f06.png">
+<img width="958" alt="Major_Earthquakes" src="https://user-images.githubusercontent.com/86980240/142136594-ee47cfed-ab85-4c5b-b4e7-d9eb95361d5b.png">
 
 Dark Layers
 
