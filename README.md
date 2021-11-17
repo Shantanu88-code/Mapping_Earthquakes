@@ -6,11 +6,11 @@ Using JavaScript, Leaflet maps visualization, Visual studio, HTML to visualize e
 
 Please see following map examples:
 
-<img width="958" alt="All_layers" src="https://user-images.githubusercontent.com/86980240/142136925-284d2d92-0f7f-4b07-8d6d-4862e537e6f2.png">
+<img width="958" alt="All_layers" src="https://user-images.githubusercontent.com/86980240/142137528-389debaf-e6bb-434e-8074-c373a0ce924a.png">
 
 Earthquake Layers
 
-<img width="959" alt="Earthquakes" src="https://user-images.githubusercontent.com/86980240/142136954-e135752c-195b-4a52-812f-726bf3703665.png">
+<img width="959" alt="Earthquakes" src="https://user-images.githubusercontent.com/86980240/142137505-20699427-99ae-4d8e-a4cd-b108e3214399.png">
 
 Tectonic Plates Layers
 
