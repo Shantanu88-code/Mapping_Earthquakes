@@ -6,15 +6,15 @@ Using JavaScript, Leaflet maps visualization, Visual studio, HTML to visualize e
 
 Please see following map examples:
 
-<img width="951" alt="All_layers" src="https://user-images.githubusercontent.com/86980240/142134478-21cde2fd-0816-4423-9d18-6c17db722bcf.png">
+<img width="958" alt="All_layers" src="https://user-images.githubusercontent.com/86980240/142136925-284d2d92-0f7f-4b07-8d6d-4862e537e6f2.png">
 
 Earthquake Layers
 
-<img width="957" alt="Earthquakes" src="https://user-images.githubusercontent.com/86980240/142134325-0e330d5e-9d94-433c-b15f-f2113b20212e.png">
+<img width="959" alt="Earthquakes" src="https://user-images.githubusercontent.com/86980240/142136954-e135752c-195b-4a52-812f-726bf3703665.png">
 
 Tectonic Plates Layers
 
-![Tectonic_plates](https://user-images.githubusercontent.com/86980240/142134368-c74dc147-4ef9-4430-856e-4329d093b663.png)
+<img width="957" alt="Tectonic_plates" src="https://user-images.githubusercontent.com/86980240/142136984-32c53058-befc-446d-a0ab-cc5c768d1e68.png">
 
 Major Earthquakes Layers
 
@@ -22,5 +22,6 @@ Major Earthquakes Layers
 
 Dark Layers
 
-<img width="952" alt="Dark_rubric" src="https://user-images.githubusercontent.com/86980240/142134456-3431050b-2835-4732-934a-a18f0a392cdd.png">
+<img width="957" alt="Dark_rubric" src="https://user-images.githubusercontent.com/86980240/142137030-359c5dc3-f003-4ad6-bfa2-0d19845be054.png">
+
 
